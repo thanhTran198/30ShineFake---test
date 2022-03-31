@@ -1,0 +1,25 @@
+/* phần navbar */
+.navbar {
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+    height: 42px;
+    background-color: rgb(255 204 51);
+}
+
+.navbarList {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 1174px;
+    margin: 0 auto;
+}
+
+.navbarItem {
+    display: flex;
+    align-items: center;
+}
+
+.navbarItemText {
+    font-weight: 600;
+}
